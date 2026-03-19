@@ -1,0 +1,37 @@
+[
+     {
+    "titolo": "Thriller",
+    "artista": "Michael Jackson",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "anno": 1982,
+    "genere": "Pop"
+  },
+  {
+    "titolo": "Back in Black",
+    "artista": "AC/DC",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ACDC_Back_in_Black.png",
+    "anno": 1980,
+    "genere": "Rock"
+  },
+  {
+    "titolo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+    "anno": 1973,
+    "genere": "Progressive Rock"
+  },
+  {
+    "titolo": "Random Access Memories",
+    "artista": "Daft Punk",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg",
+    "anno": 2013,
+    "genere": "Electronic"
+  },
+  {
+    "titolo": "25",
+    "artista": "Adele",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_25_%28Official_Album_Cover%29.png",
+    "anno": 2015,
+    "genere": "Pop"
+  }
+]
