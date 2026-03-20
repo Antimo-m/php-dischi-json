@@ -13,7 +13,7 @@ if($_SERVER["REQUEST_METHOD"] === "POST"){
     $titolo = $_POST["titolo"];
     $artista = $_POST["artista"];
     $cover = $_POST["cover_url"];
-    $anno = $_POST["anno"];
+    $anno = $_POST["anno"]; 
     $genere = $_POST["genere"];
 
 
